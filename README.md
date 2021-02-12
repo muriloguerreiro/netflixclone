@@ -60,7 +60,7 @@ Next, your browser will be opened on the initial screen of the Website.
 
 ## Deploy
 
-The deployment of the application it's on this link - [Investor Quiz](https://netflixclone.muriloguerreiro.vercel.app/), and it has been synchronized with `Vercel`
+The deployment of the application it's on this link - [Netflix Clone](https://netflixclone.muriloguerreiro.vercel.app/), and it has been synchronized with `Vercel`
 
 ## Features
 
